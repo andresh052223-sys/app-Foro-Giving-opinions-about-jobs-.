@@ -1,0 +1,6 @@
+{
+  "name": "GA3-240202501-AA1-EV03: Giving Opinions About Jobs",
+  "description": "Presentación didáctica interactiva con progresión acumulativa y tipografía gigante para el foro de inglés 'Giving Opinions About Jobs' en aula de clase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
